@@ -1,2 +1,2 @@
-tiramisu: tiramisu.c
-	$(CC) tiramisu.c -o tiramisu -Wall -Wextra -pedantic -std=c99
+pie: pie.c
+	$(CC) pie.c -o pie -Wall -Wextra -pedantic -std=c99
